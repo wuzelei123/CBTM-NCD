@@ -41,9 +41,4 @@ CBTM-NCD contains:
 
 ---
 
-## 📦 Installation
 
-```bash
-git clone https://github.com/wuzelei123/CBTM-NCD.git
-cd CBTM-NCD
-pip install -r requirements.txt
